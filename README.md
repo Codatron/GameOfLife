@@ -21,9 +21,13 @@
  - Dark Green - adult cells
  - Brown - over the hill cells
  - Brownish Grey - old to ancient cells (depending on how long the game goes)
- - 
+ 
+ ## Game Preview
+ 
 ![GameOfLife_img1](https://user-images.githubusercontent.com/87000871/139592745-6ed98f29-7c76-4ed7-97fb-8b5e4dfa0748.PNG)
 
 ![GameOfLife_img2](https://user-images.githubusercontent.com/87000871/139592746-af296ac2-c34b-4ab8-b275-356585480293.PNG)
 
 ![GameOfLife_img3](https://user-images.githubusercontent.com/87000871/139592748-5fd39979-9a5e-49ff-98c6-f4e71c821a3b.PNG)
+
+Enjoy!
